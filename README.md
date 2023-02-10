@@ -1,6 +1,6 @@
 # LunchBytes
 ## MAUI &amp; Blazor: Your C# Code, Everywhere!
-### Season 02 Episonde 01, February 8, 2023
+### Season 02 Episode 01, February 8, 2023
 
 ## Resources
 - https://dotnet.microsoft.com/en-us/platform/customers/blazor
