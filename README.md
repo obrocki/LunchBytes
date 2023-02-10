@@ -2,6 +2,9 @@
 ## MAUI &amp; Blazor: Your C# Code, Everywhere!
 ### Season 02 Episode 01, February 8, 2023
 
+
+[![MAUI   Blazor Your C# Code, Everywhere](https://user-images.githubusercontent.com/83449241/218144566-29b51934-baa8-41b8-b110-1f8193abad74.png)](https://www.youtube.com/watch?v=z6lg8bKT1O0)
+
 ## Resources
 - https://dotnet.microsoft.com/en-us/platform/customers/blazor
 - https://www.cayas.de/blog/migrate-xamarin-forms-to-maui?utm_source=twitter
@@ -33,3 +36,4 @@
 
 ## Code
 - https://github.com/microsoft/dotnet-podcasts (https://dotnetpodcasts.azurewebsites.net/)
+
