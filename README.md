@@ -14,6 +14,7 @@
 - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator
 - https://devblogs.microsoft.com/dotnet/category/maui/
 - https://devblogs.microsoft.com/dotnet/category/blazor/
+- https://github.com/AdrienTorris/awesome-blazor
 - https://github.com/dotnet/maui/wiki/Migrating-from-Xamarin.Forms-(Preview)
 - https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin
 - https://dotnet.microsoft.com/en-us/platform/support/policy
